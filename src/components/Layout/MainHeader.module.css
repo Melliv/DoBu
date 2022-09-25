@@ -1,0 +1,10 @@
+
+
+.header ul {
+  list-style: none;
+}
+
+.header a {
+  text-decoration: none;
+  color: #f8eee3;
+}

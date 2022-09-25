@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5c4f70d.css",
+    "main.js": "/static/js/main.7691ab09.js",
+    "static/media/floor_plan.png": "/static/media/floor_plan.7bfac86a883299f723d0.png",
+    "static/media/nublu.jpg": "/static/media/nublu.90c4d06449019ab113bf.jpg",
+    "static/media/phone-1.svg": "/static/media/phone-1.a42613323e06b28d243e76c74222ed17.svg",
+    "static/media/mail-142.svg": "/static/media/mail-142.b8d4eba709d7ab8b172b913d2e6e3652.svg",
+    "index.html": "/index.html",
+    "main.a5c4f70d.css.map": "/static/css/main.a5c4f70d.css.map",
+    "main.7691ab09.js.map": "/static/js/main.7691ab09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c4f70d.css",
+    "static/js/main.7691ab09.js"
+  ]
+}

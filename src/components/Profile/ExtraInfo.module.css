@@ -1,0 +1,54 @@
+.whole {
+  border-radius: 5px;
+  padding: 3%;
+  margin-bottom: 5%;
+}
+
+.whole h2, .whole h3 {
+  margin-bottom: 5%;
+}
+
+.table {
+  width: 100%;
+  border-radius: 5px;
+  margin-bottom: 2%;
+}
+
+.table thead {
+  text-align: center;
+}
+
+.table th {
+  font-size: large;
+  padding-bottom: 1%;
+  padding-left: 2%;
+}
+
+.table td, .table th {
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+}
+
+
+.table tr,
+td {
+  padding: 15px;
+  text-align: left;
+}
+
+.table tbody > tr:hover {
+  background-color: #d95a3d3f;
+}
+
+.underLineWord {
+  text-decoration: underline;
+}
+
+.backButton {
+  margin-right: 2%;
+}
+
+.detailInfo {
+  border-top: 1px dashed black;
+  padding-top: 5%;
+}

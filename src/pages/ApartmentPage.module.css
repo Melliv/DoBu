@@ -1,0 +1,24 @@
+.apartmentImage {
+  border-radius: 10px;
+}
+
+.apartmentImage img {
+  padding: 10% 0;
+  width: 60%;
+}
+
+.apartmentDetailsContainer {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 3%;
+  margin-bottom: 5%;
+  width: 105%;
+}
+
+.apartmentDetailsContainer h2 {
+  margin-bottom: 3%;
+}
+
+.apartmentDetailsContainer Search {
+  align-items: center;
+}
